@@ -1,0 +1,7 @@
+{
+  "name": "capacitor-assign",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "custom"
+}
